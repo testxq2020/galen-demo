@@ -13,9 +13,9 @@
 #### About this project
   This is a simple demonstration of how to use Galen to test the element size under different layouts.
  The project consists of:
-        * Galen Specs - Galen uses this file to test the layout
-        * GalenTests -  Generic implementation of Galen Tests
-        * Tests - Functional Tests
+   * Galen Specs - Galen uses this file to test the layout
+   * GalenTests -  Generic implementation of Galen Tests
+   * Tests - Functional Tests
  
  #### How to run :
   * Run the test by `gradle test` or run `GalenDemoTest` as TestNG Test. Reports are located in `build/galen-html-reports`.
