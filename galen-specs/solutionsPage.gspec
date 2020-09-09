@@ -1,0 +1,11 @@
+@objects
+   solution-title   css  h1.heading
+
+= Solution Page =
+   solution-title:
+      height 72px
+      width  1170px
+
+      
+
+   
