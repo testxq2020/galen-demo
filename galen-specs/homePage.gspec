@@ -1,0 +1,11 @@
+@objects
+   main-logo   css   img.dark-logo
+
+= Home Page =
+   main-logo:
+      height 48px
+      width 160px   
+
+      
+
+   
